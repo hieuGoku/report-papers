@@ -1,5 +1,7 @@
 # Playing with AI - Papers
 
+### Starting from the time I interned in AI at BAP
+
 ![alt text](image.jpg)
 
 - 2012 [Alex Net - ImageNet Classification with Deep Convolutional Neural Networks](./files/Report%20paper%20(Alexnet).docx)
@@ -29,3 +31,6 @@
 - 2021 [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](/files/Report%20paper%20(UViT).docx)
 
 - 2023 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](/files/Report%20paper%20(Mamba%20-%202023).docx)
+
+
+### If this project helped you, please don't forget to give me a ⭐️. Thanks! 🌟
