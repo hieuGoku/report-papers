@@ -6,6 +6,8 @@
 
 - 2012 [Alex Net - ImageNet Classification with Deep Convolutional Neural Networks](./files/Report%20paper%20(Alexnet).docx)
 
+- 2013, 2017 [VAE - Auto-Encoding Variational Bayes, VQ-VAE - Neural Discrete Representation Learning](./files/Report%20paper%20(VAE,%20VQ-VAE).docx)
+
 - 2014 [GAN - Generative Adversarial Networks](./files/Report%20paper%20(GANs).docx)
 
 - 2015 [U-Net - Convolutional Networks for Biomedical Image Segmentation](./files/Report%20paper%20(Unet).docx)
