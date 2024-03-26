@@ -32,6 +32,8 @@
 
 - 2021 [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](/files/Report%20paper%20(UViT).docx)
 
+- 2022 [VQ-GAN, VECTOR-QUANTIZED IMAGE MODELING WITH IMAGE - PROVED VQGAN](/files/Report%20paper%20(VQ-GAN,%20VECTOR-QUANTIZED%20IMAGE%20MODELING%20WITH%20IM-%20PROVED%20VQGAN).docx)
+
 - 2023 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](/files/Report%20paper%20(Mamba%20-%202023).docx)
 
 
